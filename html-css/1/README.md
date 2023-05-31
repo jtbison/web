@@ -86,4 +86,4 @@ Result:
 
 As you can see, there is no difference.
 
-(Make sure to add indents if you are opting to use (2). It's help with distinguishing content vs tags)
+(Make sure to add indents if you are opting to use (2). It helps with distinguishing content vs tags)
