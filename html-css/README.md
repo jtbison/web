@@ -15,4 +15,10 @@ Also, tbh, it isn't bad to go over the basics!
 
 <hr/>
 
-# Day 1 Complete.
+- [x] Day 1
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
