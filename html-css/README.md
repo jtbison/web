@@ -13,6 +13,12 @@ I'm using Iconify because I want to learn about which style I prefer, since I wi
 
 Also, tbh, it isn't bad to go over the basics!
 
+# Why are you using boilerplate code?
+
+Because Live Server doesn't work without it and I still have a pretty good idea about it (plus the tutorial will later go on about it)
+
+Also, I'm running this whole thing on codespaces so it's not like I can just open it up on my browser...
+
 <hr/>
 
 - [x] Day 1
