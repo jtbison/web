@@ -26,7 +26,7 @@ Link to another website.
 
 # HTML Attribute
 
-Modified _how_ an element behaves
+Modifies _how_ an element behaves
 
 For example, the `href` attribute in the anchor element. It redirects us to another website. It modified _how_ the anchor element behaves.
 
